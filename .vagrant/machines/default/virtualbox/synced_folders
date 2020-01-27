@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/shared":{"owner":"vagrant","group":"vagrant","guestpath":"/home/vagrant/shared","hostpath":"/home/toahae/my-dev-env/my-dev-env/shared","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/toahae/my-dev-env/my-dev-env","disabled":false,"__vagrantfile":true}}}
